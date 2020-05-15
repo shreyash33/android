@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "884662476822",
+    "firebase_url": "https://thanxdude-6400b.firebaseio.com",
+    "project_id": "thanxdude-6400b",
+    "storage_bucket": "thanxdude-6400b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884662476822:android:8615d513d2c2bd4ac71537",
+        "android_client_info": {
+          "package_name": "com.example.awesome.thanxdude"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884662476822-3aftfis062vh6uhm3psgu4a8odv01kmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.awesome.thanxdude",
+            "certificate_hash": "1d826f7bbd980714746db154e2e5f7550407bae1"
+          }
+        },
+        {
+          "client_id": "884662476822-1a1rjnldl5reit12vktbu2hr9pare40p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBQBWytRMrfW8usNP7m92K5oBwf9nLbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884662476822-1a1rjnldl5reit12vktbu2hr9pare40p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
